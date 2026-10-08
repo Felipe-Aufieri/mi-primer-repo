@@ -1,7 +1,10 @@
 # Prueba README
-## Prueba
+
 
 
 git status: muestra el estado de tus archivos
+
 git add:  Prepara los archivos modificados para guardarlos
+
 git commit: : Guarda los cambios preparados de forma local con un mensaje descriptivo.
+
