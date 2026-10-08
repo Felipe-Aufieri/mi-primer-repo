@@ -7,7 +7,7 @@ git add:  Prepara los archivos modificados para guardarlos
 git commit: : Guarda los cambios preparados de forma local con un mensaje descriptivo.
 
 ```
-bash
+python
 import os
 os.system("pause")
 
