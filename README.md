@@ -1,5 +1,5 @@
-# **Titulo**
-## **Subtitulo**
+# **Comandos basicos**
+## **Aprendidos en la clase del 8/10**
 
 ```bash
 git status: #Muestra el estado de tus archivos.
