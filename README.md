@@ -1,5 +1,5 @@
 # Prueba README
-
+## prueba
 git status: muestra el estado de tus archivos
 
 git add:  Prepara los archivos modificados para guardarlos
