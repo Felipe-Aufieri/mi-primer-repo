@@ -13,4 +13,4 @@ def main()
 os.system("pause")
 
 ```
-kiero keke
+k
