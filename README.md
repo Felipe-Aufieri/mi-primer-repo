@@ -1,6 +1,4 @@
 # Prueba README
-### prueba
-
 
 git status: muestra el estado de tus archivos
 
