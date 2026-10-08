@@ -8,6 +8,7 @@ git commit: : Guarda los cambios preparados de forma local con un mensaje descri
 
 ```bash
 import os
+def main()
 os.system("pause")
 
 ```
