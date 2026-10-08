@@ -1,4 +1,5 @@
-#Titulo
+# **Titulo**
+## **Subtitulo**
 
 git status: muestra el estado de tus archivos.
 
